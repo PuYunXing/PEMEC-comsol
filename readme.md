@@ -4,7 +4,7 @@
 
 ***The content of this article has been submitted to the ICCSIE 2023 conference.***
 
-***Readers are welcome to engage in discussions with me. ***
+***Readers are welcome to engage in discussions with me.***
 
 ***Contact email: yun_xingpu@163.com***
 
@@ -12,7 +12,9 @@
 
 ​		Transmission lines are a crucial component of the power grid. Currently, the majority of high-voltage transmission lines utilize steel-cored aluminum stranded conductors. However, during their operational lifespan, various types of damage can occur. Detecting these types of damages early on is challenging through overall line monitoring of voltage, current, power, and other signals. Nevertheless, the accumulation of these defects can significantly impact the reliability of the transmission system. Currently, there is limited research focused on this specific area, highlighting the urgent need for the development of efficient and reliable methods for detecting internal and external flaws, enabling periodic non-destructive testing of power transmission lines.
 
-<img src="FIG/fenzhen.jpg" alt="fenzhen" style="zoom: 67%;" />
+<img src="FIG/fenzhen.jpg" width="180" height="105"><img src="FIG\anzhuang.jpg" width="180" height="105"><img src="FIG\fushi.jpg" width="180" height="105"/>
+
+<img src="FIG/fenzhen.jpg" alt="fenzhen" style="zoom: 45%;" />
 
 <div align = "center">Fig.1. Wind-induced damage</div>
 
