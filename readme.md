@@ -4,7 +4,7 @@
 
 ***The content of this article has been submitted to the ICCSIE 2023 conference.***
 
-***Readers are welcome to engage in discussions with me. Contact email: yun_xingpu@163.com***
+***Readers are welcome to engage in discussions with me. Contact email: yunxing_pu@163.com***
 
 ***"mph" is the simulation source file, but due to memory constraints during upload, the simulation results has been stripped . Therefore, you need to perform the simulation on your own pc.***
 
