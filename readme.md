@@ -128,7 +128,7 @@
 
 ### Ⅲ.2. Comparison of detection voltages
 
-&emsp;&emsp;Figure 16 depicts the signals of various damage widths for different types and damage depths of steel/AL strands. The left section of the diagram presents all the signals detected by the balanced coil, while the right section displays the signals from the differential coils. Since the signal is symmetric about the y-axis in both positive and negative half-periods, the graph only shows up to 0.3s.
+&emsp;&emsp;Figure 13 depicts the signals of various damage widths for different types and damage depths of steel/AL strands. The left section of the diagram presents all the signals detected by the balanced coil, while the right section displays the signals from the differential coils. Since the signal is symmetric about the y-axis in both positive and negative half-periods, the graph only shows up to 0.3s.
 <div align=center>
 <img src="FIG\dianyatu.png" height="450" />
 </div>
